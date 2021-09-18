@@ -1,0 +1,9 @@
+{
+  "checkpoints_path": "./checkpoints/training_1/cp.ckpt",
+  "data_path": "./german-traffic-signs",
+  "num_classes": 43,
+  "log_dir_train": "./logs/train",
+  "log_dir_test" : "./logs/test",
+  "csv_mapping": "./german-traffic-signs/signnames.csv"
+
+}

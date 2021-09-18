@@ -46,5 +46,12 @@ image-classifier
 | test_model.py
 |___ checkpoints
 |    |___ training_1
+|
+|___ german_traffic_signs
+|    | train.p
+|    | test.p
+|    | val.p
+|___ logs
+|    |___ train
 
 ```

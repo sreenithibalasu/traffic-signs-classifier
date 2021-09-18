@@ -1,5 +1,4 @@
 ## German Traffic Sign Detection
-**Assignment work done as part of Udemy Self-Driving Car Course**
 
 This project builds a Convolutional Neural Network that is trained on 43 different classes of traffic sign images. These kinds of classifiers built on large-scale data can be used for self-driving cars to recognize and classify traffic signs on the fly and make quick decisions - such as speed up or slow down, stop when it comes across a stop sign etc. 
 

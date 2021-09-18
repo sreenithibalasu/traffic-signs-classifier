@@ -29,7 +29,7 @@ The loss and accuracy during training and validation were visualized using tenso
 [`test_model.py`](https://github.com/sreenithibalasu/image_classifier/blob/main/test_model.py) - tests the saved model in `checkpoints_path` on an image URL or pickled test images
 
 ### Configuration Files
-['configs.json'](https://github.com/sreenithibalasu/image_classifier/blob/main/configs.json) - before running the training and testing file, some parameters in this file has to be changed:
+[`configs.json`](https://github.com/sreenithibalasu/image_classifier/blob/main/configs.json) - before running the training and testing file, some parameters in this file has to be changed:
 - `checkpoints_path` - path to store the model weights and parameters during and after training. This way, while testing the model weights can be loaded and images can be tested at ease. 
 - `data_path` - path where train, test and validation pickle files are stored
 - `log_dir_train` - for generating tensorboard logs. Path where training logs will be stored
